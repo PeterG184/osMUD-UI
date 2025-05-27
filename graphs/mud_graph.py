@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 
-fontsize = 18
+fontsize = 24
 linewidth = 2
 
 def extract_columns_from_csv(file_path, columns):
